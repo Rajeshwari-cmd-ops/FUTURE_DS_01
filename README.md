@@ -18,7 +18,7 @@ Visuals Included:
 - Monthly Sales Trend
 - Sales by Category
 
-- 
+
 
 
 Task 2: Social Media Campaign Performance Dashboard
