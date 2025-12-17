@@ -1,17 +1,1 @@
-Task 2: Social Media Campaign Performance Dashboard
 
-Tool Used:
-Power BI
-
-Dataset:
-Social Media Advertising Dataset
-
-Description:
-Created a Power BI dashboard to analyze social media campaign performance.
-The dashboard shows total spend, total clicks, age-wise spend distribution,
-and spend trend over time.
-
-Insights:
-- Campaign 1178 generated the highest spend and clicks.
-- Age group 30–39 contributed the highest total spend.
-- Overall ad spend shows a decreasing trend over time.
